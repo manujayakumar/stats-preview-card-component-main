@@ -13,14 +13,19 @@
 ### ScreenShot
 Desktop view:
 
-![](https://github.com/manujayakumar)
+![](https://github.com/manujayakumar/stats-preview-card-component-main/blob/main/screenshot/desktop-view.PNG)
 
 Mobile view:
 
-![](https://github.com/manujayakumar)
+![](https://github.com/manujayakumar/stats-preview-card-component-main/blob/main/screenshot/mobile-view.PNG)
+
+Tablet view:
+
+![](https://github.com/manujayakumar/stats-preview-card-component-main/blob/main/screenshot/tablet-view.PNG)
+
 ### Links
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/)
-- Live Site URL: [Live Site at Vercel]()
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
+- Live Site URL: [Live Site at Vercel](https://stats-preview-card-component-main-kappa-nine.vercel.app/)
 ## My process
 ### Built with
 - Semantic HTML5 markup
