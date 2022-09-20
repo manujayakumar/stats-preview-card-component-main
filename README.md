@@ -31,13 +31,15 @@ Tablet view:
 - Semantic HTML5 markup
 - Flexbox
 - Grid
+- order
 - Responsive Design
 ### What I learned
-I have learn how to position div. center using both Flexbox, Grid with their property and make content responsive. 
+I have learn how to position div. center using both Flexbox, Grid with their property, used order property to arrange the elements and make content responsive. 
 ### Useful resources
 - W3 Schools 
   - [Flex](https://www.w3schools.com/css/css3_flexbox.asp) 
   - [Grid](https://www.w3schools.com/css/css_grid.asp)
+  - [Order](https://www.w3schools.com/cssref/css3_pr_order.asp)
 ## Author
 - Github - [manujayakumar](https://github.com/manujayakumar)
 - Frontend Mentor - [manujayakumar](https://www.frontendmentor.io/profile/manujayakumar)
